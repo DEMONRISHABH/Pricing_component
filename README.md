@@ -2,4 +2,4 @@
 
 🍁 **It is a price comparison components for subscription/purchase models**
 >
-🍁 **Cool looking subscription page**
+🍁 **Cool looking subscription page based on Javascript**
